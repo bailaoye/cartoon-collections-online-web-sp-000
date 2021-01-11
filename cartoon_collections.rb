@@ -4,5 +4,5 @@ def roll_call_dwarves(list)
   end
 end
 
-def summon_captain_planet
+def summon_captain_planet(list)
 end
