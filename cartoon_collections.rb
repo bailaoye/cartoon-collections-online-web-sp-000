@@ -10,5 +10,8 @@ def long_planeteer_calls(list)
   list.each do |item|
     if item.length > 4
       true
+    else
+      false
+    end
   end
 end
