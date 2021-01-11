@@ -6,4 +6,5 @@ end
 
 def summon_captain_planet(list)
   list.map do |item|
+  end
 end
