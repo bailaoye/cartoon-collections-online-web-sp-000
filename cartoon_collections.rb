@@ -9,3 +9,5 @@ end
 def long_planeteer_calls(list)
   list.find{|item| item.length > 4} ? true : false
 end
+
+def find_the_cheese
