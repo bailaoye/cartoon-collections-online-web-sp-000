@@ -7,7 +7,5 @@ def summon_captain_planet(list)
 end
 
 def long_planeteer_calls(list)
-  list.detect do |item|
-    
-  end
+  list.find{|item| item.length > 4} ? true : false
 end
