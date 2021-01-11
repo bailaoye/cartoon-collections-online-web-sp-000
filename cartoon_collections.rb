@@ -7,3 +7,5 @@ end
 def summon_captain_planet(list)
   list.map{|item| item.capitalize + "!"}
 end
+
+def long_planeteer_calls(list)
