@@ -12,5 +12,5 @@ end
 
 def find_the_cheese(list)
   cheeses = ["cheddar", "gouda", "camembert"]
-  
+
 end
