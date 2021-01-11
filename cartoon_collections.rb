@@ -5,4 +5,5 @@ def roll_call_dwarves(list)
 end
 
 def summon_captain_planet(list)
+  list.map do |item|
 end
